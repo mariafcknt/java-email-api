@@ -2,5 +2,5 @@
 
 Código de envio de emails usando Java para projeto universitário
  
-[Tutorial usado]("https://www.youtube.com/watch?v=ugIUObNHZdo&ab_channel=CodeWithArjun")
-[Repositório original](https://github.com/arjungautam1/SpringBootEmail/blob/master/src/main/java/com/arjuncodes/springemaildemo/SpringEmailDemoApplication.java)
+- [Tutorial usado](https://youtu.be/ugIUObNHZdo?si=Vf8Gnh7C1YbSLOCc)
+- [Repositório original](https://github.com/arjungautam1/SpringBootEmail/blob/master/src/main/java/com/arjuncodes/springemaildemo/SpringEmailDemoApplication.java)
